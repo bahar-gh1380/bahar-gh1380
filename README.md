@@ -1,7 +1,5 @@
 # Hi, I'm Bahareh Ghalenoii 👋
 
-Software Engineer from Iran 🇮🇷
-
 🎓 M.Sc. Software Engineering Candidate
 
 💻 Laravel | PHP | JavaScript | Python
