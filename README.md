@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bahareh Ghalenoii 👋
 
-<!--
-**bahar-gh1380/bahar-gh1380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Iran 🇮🇷
 
-Here are some ideas to get you started:
+🎓 M.Sc. Software Engineering Candidate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Laravel | PHP | JavaScript | Python
+
+🌱 Currently learning AI, NLP and Software Architecture
+
+🔭 Working on scalable web applications
+
+📫 Email
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+⭐ Featured Projects
