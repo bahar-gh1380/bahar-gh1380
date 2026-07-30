@@ -1,4 +1,4 @@
-Hi, I'm Bahareh Ghalenoii 👋
+Hi, I'm Bahareh Ghalenoii
 
  Software Engineer | Laravel & PHP Developer | Python Enthusiast
 
