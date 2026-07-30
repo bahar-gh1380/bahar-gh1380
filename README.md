@@ -6,14 +6,14 @@ I'm a Software Engineering Master's student passionate about building scalable w
 
 My experience includes front-end and back-end development with PHP/Laravel, JavaScript, and Python. I'm also interested in Artificial Intelligence, Natural Language Processing (NLP), and software architecture.
 
-🎓 Education
-- 🎓 M.Sc. in Software Engineering (Current)
+ Education
+-  M.Sc. in Software Engineering (Current)
   Islamic Azad University of South Tehran
 
-- 🎓 B.Sc. in English Language Teaching (ELT)
+-  B.Sc. in English Language Teaching (ELT)
   Islamic Azad University of South Tehran
 
-💻 Technical Skills
+Technical Skills
 
 Programming Languages
 - PHP
@@ -37,7 +37,7 @@ Tools
 - cPanel
 - XAMPP
 
-🌱 Currently Learning
+Currently Learning
 - Software Architecture
 - Design Patterns
 - Advanced Laravel
@@ -45,25 +45,25 @@ Tools
 - NLP
 - Clean Code
 
- 🚀 Featured Projects
+ Featured Projects
 
-🛒 Shop Management System
+Shop Management System
 
 A PHP-based admin dashboard for managing products and tables with CRUD operations.
 
-🧮 JavaScript Calculator
+ JavaScript Calculator
 
 Responsive calculator built with HTML, CSS and JavaScript demonstrating DOM manipulation and event handling.
 
-✅ To-Do List
+ To-Do List
 
 Task management application built with JavaScript supporting add, edit, delete and complete features.
 
-👤 Responsive Profile Card
+Responsive Profile Card
 
 Modern responsive profile card developed using HTML, CSS and JavaScript.
 
-🎯 Career Goals
+ Career Goals
 I'm actively improving my software engineering skills and looking for international opportunities in:
 
 - Backend Development
@@ -72,19 +72,19 @@ I'm actively improving my software engineering skills and looking for internatio
 - Software Engineering
 - AI & NLP Research
 
-📫 Contact
-📧 Email:
+ Contact
+ Email:
 teacherghalenoii@outlook.com
-💼 LinkedIn:
+ LinkedIn:
 https://linkedin.com/in/bahareh-ghalenoii
-🐙 GitHub:
+ GitHub:
 https://github.com/bahar-gh1380
 
-⚡ Fun Facts
+Fun Facts
 
-- 📚 I enjoy reading books and research papers.
-- 💪 Fitness is part of my daily routine.
-- 🌍 I love learning languages and exploring new technologies.
-- 🚀 I believe learning never stops.
+-  I enjoy reading books and research papers.
+-  Fitness is part of my daily routine.
+- I love learning languages and exploring new technologies.
+-  I believe learning never stops.
 
-⭐ Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile!
